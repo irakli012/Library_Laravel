@@ -59,13 +59,13 @@
         </main>
         
         <footer
-            class="fixed bottom-0 left-0 w-full flex items-center font-bold bg-laravel text-white p-4 mt-5 opacity-90 md:justify-center"
+            class="mt-5 left-0 flex items-center font-bold bg-laravel text-white p-4 mt-5 opacity-90 md:justify-center"
         >
             <p class="ml-2">Book Online Library, Since 2022</p>
 
             <a
                 href="/books/create"
-                class="absolute top-1/3 right-10 bg-black text-white py-2 px-5"
+                class="flex ml-auto bg-black text-white py-2 px-5"
             >
                 Add Book
             </a>
